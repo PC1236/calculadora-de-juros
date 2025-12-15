@@ -1,0 +1,5 @@
+{
+  "name": "Simulador de Juros Compostos",
+  "description": "Uma ferramenta interativa para calcular o crescimento do seu patrimônio com juros compostos, permitindo ajustes de aportes mensais, taxas e prazos.",
+  "requestFramePermissions": []
+}
